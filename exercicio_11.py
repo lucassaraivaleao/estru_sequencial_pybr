@@ -15,5 +15,6 @@ num_real = float(input('Informe um número real: '))
 calc1 = ((num_int1**2) * (num_int2/2))
 calc2 = ((num_int1 ** 3) + num_real)
 calc3 = (num_real **3)
+
 print(f'O produto do dobro do primeiro com metade do segundo: {calc1}'
       f'\nA soma do triplo do primeiro com o terceiro: {calc2}\nO terceiro elevado ao cubo: {calc3}')
