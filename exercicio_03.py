@@ -1,6 +1,7 @@
 """
 Exercicio-01: Faça um Programa que peça dois números e imprima a soma.
 Autor: Lucas Leão
+
 """
 
 primeiro_numero = int(input('Informe o primeiro número: '))
